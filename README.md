@@ -1,4 +1,4 @@
-#Length of stay prediction
+# Length of stay prediction
 
 Coursework for the course Deep Learning, taught in Term 2, at the Barcelona School of Economics. Kaggle competition: https://www.kaggle.com/competitions/dl23-length-of-stay-prediction-decision-trees
 
